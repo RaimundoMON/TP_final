@@ -1,3 +1,9 @@
+
+#title: "Trabajo Final Instrumentos de Análisis Urbano II. MEU-UTDT. Año 2022."
+#author: "Fernández, Raimundo"
+#output: html_document
+
+
 library(haven)
 library(dplyr)
 library(ggplot2)
